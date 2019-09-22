@@ -65,6 +65,16 @@ This course intorduces
   - B-Trees
   - B+-Trees
 
-### Note
+### Course Resources
 
-To download a single folder from Github, we can use <https://minhaskamal.github.io/DownGit/#/home>
+- Telegram Channel: <https://t.me/DSA1920>
+- Github: <https://www.github.com/helghareeb/DSA20>
+- Google Classroom: <https://classroom.google.com>
+  - Invite students or give them the class code: qdw6cy0
+- Contact: h.elghareeb@yahoo.com
+- Demo: Join Google Classroom <https://www.youtube.com/watch?v=9hmfs-binhM>
+- Demo: Anaconda Python Installation (Windows) <https://youtu.be/ejBttg7GWsw>
+
+### Notes
+
+- To download a single folder from Github, we can use <https://minhaskamal.github.io/DownGit/#/home>
