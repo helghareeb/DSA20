@@ -90,7 +90,6 @@ This course intorduces
 - Dr.Amal Magdi
 - Dr.Mohamed El-Dawansy
 - Dr.Mohamed Abdel Salam
-- Dr.
 
 ### Course Rules
 
