@@ -75,6 +75,30 @@ This course intorduces
 - Demo: Join Google Classroom <https://www.youtube.com/watch?v=9hmfs-binhM>
 - Demo: Anaconda Python Installation (Windows) <https://youtu.be/ejBttg7GWsw>
 
+### Course Grades
+
+- 10 Marks: Mid-Term
+- 10 Marks: Labs
+- 20 Marks: Online Quizzes
+- 60 Marks: Final
+- Total: 100 Marks
+
+### Teaching Assistants
+
+- Dr.Aya Samy
+- Dr.Ahmed Reda
+- Dr.Amal Magdi
+- Dr.Mohamed El-Dawansy
+- Dr.Mohamed Abdel Salam
+- Dr.
+
+### Course Rules
+
+- No Bonus
+- No Project
+- No Exam / (Online) Quiz Retake
+- Do not Make trouble with TAs
+
 ### Notes
 
 - To download a single folder from Github, we can use <https://minhaskamal.github.io/DownGit/#/home>
