@@ -53,5 +53,8 @@ class TestMySum(unittest.TestCase):
     def test_h_courses(self):
         pass
 
+    def tearDown():
+        pass
+
 if __name__ == '__main__':
     unittest.main()

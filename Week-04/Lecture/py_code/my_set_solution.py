@@ -31,6 +31,8 @@ class MySet:
 
     def is_subset_of(self, set_b):
         for item in self._items:
+            # if item not in set_b:
+            #     return False
             if item in set_b:
                 pass
             else:
@@ -39,7 +41,7 @@ class MySet:
     
     # def union(self, set_b):
     def __add__(self, set_b):
-        # union_set = self._items[]
+        # _union_list = self._items[]
         _union_list = self._items[:]
         for item in set_b:
             if item not in self._items:
