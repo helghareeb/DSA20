@@ -3,7 +3,7 @@
 from array_two_d import MyArrayTD
 
 # Open the text file for reading
-grades_file = open('py_code/grades.txt', 'r')
+grades_file = open('grades.txt', 'r')
 
 # Extract the first two values; indicate the size of the array
 num_students = int(grades_file.readline())

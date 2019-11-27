@@ -50,8 +50,9 @@ class TestMySum(unittest.TestCase):
         self.assertEqual(len(self.a_courses.intersect(self.h_courses)), 2)
 
 
-    def test_h_courses(self):
-        pass
+   
+
+    
 
 if __name__ == '__main__':
     unittest.main()

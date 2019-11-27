@@ -5,8 +5,8 @@ from life_np import Life
 import matplotlib.pyplot as plt
 import numpy as np
 
-dim_row = 200
-dim_col = 200
+dim_row = 10
+dim_col = 10
 
 data = np.random.random_integers(0,1,(dim_row,dim_col))
 
@@ -22,4 +22,4 @@ for i in range(100):
     ax.imshow(life.next_generation())
     # ax.set_title("frame {}".format(i))
     # Note that using time.sleep does *not* work here!
-    plt.pause(1)
+    plt.pause(10)

@@ -12,7 +12,8 @@ class MyArrayTD:
         # Create 2-D Array
         # If you try the inner list as empty, 
         # you will get errors later trying to assign values
-        self._my_array = no_rows * [ no_cols * [0]]
+        # self._my_array = no_rows * [ no_cols * [0]]
+        self._my_array = [[0 for x in range(self.no_cols)] for y in range(self.no_rows)] 
     
     def num_rows(self):
         return self.no_rows
